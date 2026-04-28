@@ -6,6 +6,12 @@ A beautiful, intelligent movie recommendation system that helps you discover fil
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32.0+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## 🌐 Live Demo
+
+**[Try CineMatch Now!](https://cinematch1610.streamlit.app/)** 🚀
+
+Experience the app live without any installation required.
+
 ## ✨ Features
 
 - **🎯 Content-Based Recommendations**: Get personalized movie suggestions based on plot, cast, director, genres, and keywords
